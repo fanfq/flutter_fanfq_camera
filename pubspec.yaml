@@ -15,9 +15,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #https://flutter.cn/docs/cookbook/plugins/picture-using-camera
+  #自定义相机 2022-06-20
   camera: 0.9.7+1
-  path_provider:
-  path:
+  path_provider: ^2.0.11
+  path: ^1.8.1
 
 
   cupertino_icons: ^1.0.2

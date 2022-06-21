@@ -1,6 +1,13 @@
 # flutter_fanfq_camera
 
-A new Flutter project.
+com.example.flutter_fanfq_camera
+
+## issues
+
+reopen will crash , launch others camera App, 
+
+
+
 
 ## Getting Started
 
